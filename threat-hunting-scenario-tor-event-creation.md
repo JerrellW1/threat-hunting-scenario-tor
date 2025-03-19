@@ -75,7 +75,7 @@ DeviceFileEvents
 ---
 
 ## Created By:
-- **Author Name**: Josh Madakor
+- **Author Name**: Jerrell Williams
 - **Author Contact**: https://www.linkedin.com/in/jerrell-williams0/
 - **Date**: August 31, 2024
 
